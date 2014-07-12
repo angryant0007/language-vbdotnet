@@ -1,12 +1,11 @@
 {
   "name": "language-vbdotnet",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "VB.NET syntax highlighting",
   "repository": "https://github.com/angryant0007/language-vbdotnet",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
