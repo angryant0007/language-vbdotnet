@@ -1,3 +1,2 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+* Converted from https://github.com/angryant0007/VBDotNetSyntax
